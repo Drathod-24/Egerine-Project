@@ -1,4 +1,4 @@
-# AI-Powered Geolocation Platform for Egerine's Advertising Bicycles
+# AI-Powered Geolocation Platform for Egerine's Advertising Bicycle
 
 Welcome to the GitHub repository for our **AI Clinic Project**! This project focuses on developing an advanced geolocation and data analysis system for **Egerine**, a groundbreaking platform transforming bicycles into sustainable mobile advertising spaces.
 
